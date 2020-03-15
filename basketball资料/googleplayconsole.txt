@@ -1,0 +1,29 @@
+BasketShooter
+833906048569
+
+已可測試
+ 
+  BasketShooter
+已成功連結您的客戶識別碼
+
+833906048569-rev7pcvteqnuomg3ajr6mb26djravco5.apps.googleusercontent.com
+
+您只需在 Android 應用程式中加入應用程式編號 (833906048569)。 
+請參閱開發人員說明文件，進一步瞭解如何執行這項程序。
+
+
+連結其他應用程式
+ 
+返回清單
+
+
+
+hengfuAD1
+请按照以下说明操作：
+请使用此应用 ID 完成 Google 移动广告 SDK 指南中的说明：
+BasketShooterca-app-pub-3455499373106199~2359667664
+			ca-app-pub-3455499373106199~2359667664
+请按照横幅广告实现指南来集成 SDK。在使用此广告单元 ID 集成代码时，您需要指定广告类型、尺寸和展示位置：
+hengfuAD1ca-app-pub-3455499373106199/3791598018
+			ca-app-pub-3455499373106199/3791598018
+请查看 AdMob 政策，确保您的实现方案符合相关规定。

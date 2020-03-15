@@ -1,0 +1,44 @@
+﻿密码：yuqangy
+
+keytool -v -list -keystore yujks.jks
+
+输入密钥库口令:
+密钥库类型: PKCS12
+密钥库提供方: SUN
+
+您的密钥库包含 1 个条目
+
+别名: key0
+创建日期: 2020-3-2
+条目类型: PrivateKeyEntry
+证书链长度: 1
+证书[1]:
+所有者: CN=Yu Qiang, OU=Game life network technology co. LTD, O=Game life networ
+k technology co. LTD, L=Nanchang, ST=Jiangxi, C=86
+发布者: CN=Yu Qiang, OU=Game life network technology co. LTD, O=Game life networ
+k technology co. LTD, L=Nanchang, ST=Jiangxi, C=86
+序列号: 50fc8f4d
+有效期为 Mon Mar 02 23:01:37 CST 2020 至 Fri Feb 24 23:01:37 CST 2045
+证书指纹:
+         MD5:  7E:ED:4C:CA:E5:76:C9:15:BF:AE:77:2E:79:D3:18:01
+         SHA1: 62:95:8D:6F:76:52:D6:C6:7E:E6:23:D0:5C:D8:55:9A:8D:F9:24:B5
+         SHA256: B5:41:45:5F:9C:AA:FF:D5:D0:A2:89:7F:81:BF:50:29:10:00:8C:7C:DF:
+CC:C0:B9:7B:21:3D:45:91:E5:E8:AC
+签名算法名称: SHA256withRSA
+主体公共密钥算法: 2048 位 RSA 密钥
+版本: 3
+
+扩展:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 3F 06 CB 42 89 BE 43 2E   F2 16 97 77 43 DE 01 B1  ?..B..C....wC...
+0010: 47 6F CA B3                                        Go..
+]
+]
+
+
+debug.keystore默认秘钥android
+*******************************************
+*******************************************
